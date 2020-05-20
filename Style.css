@@ -22,11 +22,11 @@ div.h5 {
 div.card {
      outline:Black;
     border-radius: 10px;
-    box-shadow: 0 6px 14px 0 rgba(33,35,68,.1)!important;
+    box-shadow: 0 6px 14px 0 rgba(33,35,68,.1) ;
     border-style:solid;
     border-color:Black;
     text align : center;
 }
 .kpi-value {
-    font-weight: 500 !important;
+    font-weight: 500;
 }
