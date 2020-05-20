@@ -1,0 +1,32 @@
+  
+.navbar-dark {
+    background-color: Navy;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.04);
+    min-height: 100px; 
+}
+h1.logo {
+    color: White;
+    font: italic small-caps bold 12px/30px Georgia, serif;
+    font-size: 170%;
+}
+.serif {
+  font-family: "Times New Roman", Times, serif;
+ font-size: 150%;
+font-style: bold;
+}
+div.h5 {
+  font: italic small-caps bold 12px/30px Georgia, serif;
+ font-size: 100%;
+}
+
+div.card {
+     outline:Black;
+    border-radius: 10px;
+    box-shadow: 0 6px 14px 0 rgba(33,35,68,.1)!important;
+    border-style:solid;
+    border-color:Black;
+    text align : center;
+}
+.kpi-value {
+    font-weight: 500 !important;
+}
