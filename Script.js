@@ -115,7 +115,7 @@
 				dataFormat: 'json',
 				dataSource: {
 					"chart": {
-						"caption": "Bitcoin Hourglass",
+						"caption": "Bitcoin Ticker",
 						"subCaption": "",
 						"xAxisName": "Local Time",
 						"yAxisName": "USD",
